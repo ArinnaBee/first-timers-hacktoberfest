@@ -306,3 +306,9 @@ BIO: Student
 Place: India
 Email:ankitjena13@gmail.com
 github:https://github.com/ankitjena
+
+Name: Arinna Black
+Bio: Writer
+Place: Virginia, USA
+Email: theraptorwhomurderedlove@gmail.com
+github: http://github.com/ArinnaBee
